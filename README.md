@@ -1,12 +1,13 @@
-<div align="center">
-	<br>
-	<br>
-	<br>
-	<br>
-	<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
-	<p>Loading</p>
-	<br>
-	<br>
-	<br>
-	<br>
-</div>
+Hi, I'm Aiden, a self taught js dev
+
+I'm currency a student in High School and I'm part of the Science Olympiad and Robotics teams.
+
+I spend most of my time either playing Valorant or programming.
+
+Most of my projects are closed source but I do often work with open-source code and content.
+
+### Links
+
+[Website](https://aiden.codes) |
+[Github](https://github.com/aidenybai) | 
+[Discord](https://dsc.bio/aids)
