@@ -1,6 +1,6 @@
 Hi, I'm Aiden, a self taught js dev
 
-I'm currency a student in High School and I'm part of the Science Olympiad and Robotics teams.
+I'm currently a student in High School and I'm part of the Science Olympiad and Robotics teams.
 
 I spend most of my time either playing Valorant or programming.
 
