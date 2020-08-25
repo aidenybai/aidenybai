@@ -1,13 +1,1 @@
-Hi, I'm Aiden, a self taught js dev
-
-I'm currently a student in High School and I'm part of the Science Olympiad and Robotics teams.
-
-I spend most of my time either playing Valorant or programming.
-
-Most of my projects are closed source but I do often work with open-source code and content.
-
-### Links
-
-[Website](https://aiden.codes) |
-[Github](https://github.com/aidenybai) | 
-[Discord](https://dsc.bio/aids)
+![Aiden's github stats](https://github-readme-stats.vercel.app/api?username=aidenybai&count_private=true&show_icons=true)
