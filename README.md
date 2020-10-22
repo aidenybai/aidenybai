@@ -1,1 +1,1 @@
-[![Aiden's github stats](https://github-readme-stats.vercel.app/api?username=aidenybai&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Aiden's github stats](https://github-readme-stats.vercel.app/api?username=aidenybai&count_private=true&show_icons=true&include_all_commits=true&title_color=7460E1&icon_color=7460E1)](https://github.com/anuraghazra/github-readme-stats)
