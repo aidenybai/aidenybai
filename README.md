@@ -1,11 +1,11 @@
 ### Hi there, I'm Aiden.
 
-I'm a developer and student in Camas, WA. My skills include:
+I'm a developer and student at Camas High School in the MST Magnet Program. My skills include:
 
 - Frontend Web development with Vue.
 - Backend Web development with NodeJS and MongoDB.
-- Algorithms with Python
+- Building native apps with ElectronJS
 
-I'm the author and co-maintainer of [Lucia](https://github.com/aidenybai/lucia) and a club lead at [Camas Coding](https://linktr.ee/camascoding).
+I'm also the creator of [Lucia](https://github.com/aidenybai/lucia) and a founder of [Camas Coding](https://linktr.ee/camascoding).
 
 [![Aiden's github stats](https://github-readme-stats.vercel.app/api?username=aidenybai&count_private=true&show_icons=true&include_all_commits=true&title_color=7460E1&icon_color=7460E1&hide=issues,prs)](https://aidenybai.netlify.app)
