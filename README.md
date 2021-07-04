@@ -4,7 +4,6 @@ $ cd aidenybai
 
 ~/aidenybai
 $ cat README.md
-```
 
 Hi there, I'm Aiden!
 I'm a student at Camas High School in the MST Magnet Research Program. In my spare time I do:
@@ -14,7 +13,4 @@ I'm a student at Camas High School in the MST Magnet Research Program. In my spa
 - Play ping-pong!
 
 I also lead at Camas Coding. If you like my work, please consider sponsoring!
-
-[www](https://aidenybai.com) ·
-[dev.to](https://dev.to/aidenybai) ·
-[linkedin](https://www.linkedin.com/in/aidenbai)
+```
