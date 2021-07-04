@@ -3,10 +3,6 @@
 $ cd aidenybai
 
 ~/aidenybai
-$ ls
-README.md
-
-~/aidenybai
 $ cat README.md
 ```
 
@@ -22,3 +18,8 @@ I also lead at Camas Coding. If you like my work, please consider sponsoring!
 [www](https://aidenybai.com) ·
 [dev.to](https://dev.to/aidenybai) ·
 [linkedin](https://www.linkedin.com/in/aidenbai)
+
+```
+~/aidenybai
+$ exit
+```
