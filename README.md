@@ -3,5 +3,5 @@
 $ cd aidenybai
 
 ~/aidenybai
-$ cat GITHUB.md
+$ nvim GITHUB.md
 ```
