@@ -26,5 +26,3 @@ Any monetary contribution would be critical in allowing me to push Million.js fo
 _— Aiden_ ᵕ̈
 
 </details>
-
-<iframe src="https://github.com/sponsors/aidenybai/card" title="Sponsor aidenybai" height="225" width="600" style="border: 0;"></iframe>
