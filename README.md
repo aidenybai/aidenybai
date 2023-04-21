@@ -2,8 +2,9 @@
 
 <details>
 <summary>
-<b><em>(click to open)</em></b><br /><br />
-Two years ago, I started <a href="https://millionjs.org"><strong>✦ Million.js</strong></a> as a small experiment to make the Virtual DOM faster.
+
+Two years ago, I started <a href="https://millionjs.org"><strong>✦ Million.js</strong></a> as a small experiment to make the Virtual DOM faster.<br /><br /><b><em>(click to open)</em></b>
+
 </summary>
 
 <br />
