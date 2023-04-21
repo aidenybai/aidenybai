@@ -2,8 +2,11 @@
 
 <details>
 <summary>
+<b><em>(click to open)</em></b>
 Two years ago, I started <a href="https://millionjs.org"><strong>✦ Million.js</strong></a> as a small experiment to make the Virtual DOM faster.
 </summary>
+
+<br />
 
 Today, it's grown to over **6,300+ stars, 120+ projects, and 140,000+ installs**. I get messages and DM's every day of people expressing their excitement about Million.js—an excitement I deeply share.
 
