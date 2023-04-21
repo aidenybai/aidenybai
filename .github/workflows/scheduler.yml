@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: lts/*
 
-      - run: npx npm i
+      - run: npx pnpm i
 
       - name: Update sponsors
         run: npm run build
