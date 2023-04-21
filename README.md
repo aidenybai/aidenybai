@@ -10,7 +10,7 @@ I'm my best self as an open-source maintainer—that bug-slashing, issue-closing
 
 Because at my heart, I'm still that same 15 y/o that fell in love with open source—a superpower that allowed me to create and share my ideas with the world.
 
-Being at an early stage where every minute spent on the project can make a significant difference, I often find myself juggling my time between school, my part-time job, and open-source development (_I currently sleep <4 hoursper day_). It's a constant battle, with each day more overwhelming and sleepless to the next.
+Being at an early stage where every minute spent on the project can make a significant difference, I often find myself juggling my time between school, my part-time job, and open-source development (_I currently sleep <4 hours per day_). It's a constant battle, with each day more overwhelming and sleepless to the next.
 
 There are moments when I feel overwhelmed by the weight of my responsibilities, when I question my ability to keep up with the demands of my personal life and the project. But each time, my passion for Million.js and the open-source community brings me back on track, reminding me of why I chose this path in the first place.
 
