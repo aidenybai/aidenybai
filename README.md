@@ -5,7 +5,7 @@
 
 <br />
 
-Today, it's grown to over **6,300+ stars, 120+ projects, and 140,000+ installs**. I get messages and DM's every day of people expressing their excitement about Million.js—an excitement I deeply share.
+Today, it's grown to over **7,100+ stars, 140+ projects, and 160,000+ installs**. I get messages and DM's every day of people expressing their excitement about Million.js—an excitement I deeply share.
 
 **For two years, I've lived and breathed Million.js**.
 
