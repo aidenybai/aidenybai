@@ -1,9 +1,9 @@
-> 💿 [aiden.mov](https://aiden.mov)
-
 <details>
-<summary>Two years ago, I started <a href="https://millionjs.org"><strong>✦ Million.js</strong></a> as a small experiment to make the Virtual DOM faster.<br /><br /><b><em>↪️ (click to open)</em></b></summary>
-
+<summary>💿 <a href="https://aiden.mov">aiden.mov</a></summary>
+  
 <br />
+
+Two years ago, I started <a href="https://millionjs.org"><strong>✦ Million.js</strong></a> as a small experiment to make the Virtual DOM faster.
 
 Today, it's grown to over **7,100+ stars, 140+ projects, and 160,000+ installs**. I get messages and DM's every day of people expressing their excitement about Million.js—an excitement I deeply share.
 
@@ -24,5 +24,7 @@ Any monetary contribution would be critical in allowing me to push Million.js fo
 **Together, let's move towards a faster web ◕ ◡ ◕ っ**
 
 _— Aiden_ ᵕ̈
+
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/aidenybai)
 
 </details>
