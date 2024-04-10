@@ -39,25 +39,6 @@
   },
   {
     "sponsor": {
-      "login": "barelyhuman",
-      "name": "Siddharth Gelera (reaper)",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43572006?u=49e7710c0d1602408ee0b6c125cf2f05b4385608&v=4",
-      "websiteUrl": "http://reaper.is",
-      "linkUrl": "https://github.com/barelyhuman",
-      "type": "User",
-      "avatarUrlHighRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAAATlBMVEVMaXEYGBsYGBsXFxsXFxsXFxsYGBsYGBsXFxsYGBsYGBoYGBsmJikcHB/7+/v///8JCQz29vb5+fk2Njno6OhkZGZZWVuXl5lISErAwMFh0vMAAAAAC3RSTlMAGJmuTsNt6zP52PRfKhgAAAAJcEhZcwAACxMAAAsTAQCanBgAAAOkSURBVHjaxZvZtqsgDIadEDRFwLF9/xc9q9Xu9liHJKj8V3u4+FZCApGEKCJLZXkiSikLgELKUiR5pqKTpfK0hEWVaX4WPc5TCZuSaR4fjs3SAhAqRH6ohxMJaMnkKJ+rFIgS2RE+FsBQ6YtWJTAlfBweJ+ChhB3iuQQvSV6ExwK8JRhGZxIOkCQHWQ4HKbnczRx3KwkHSqowXDw5K+BgFVkYLo58BhdDVqdwAQp1bVxhIyw+jQsgt/JZwIkS69wETtXq7pnBycquX+DNZRZwusSpB+GW8hCOXnF2ApfoJ7IVXKT5BlZeBRZHpLAF0J7JTE8la3XT3Kz1M5lqsAbbD61z7aMDSzVa8Q3WtnkYY6rKGPO4U8mCHdLaNq1xrq7r2jlT91SyYubwyK0nOVNRyZ9cljzuZHRFJUtWaH3Za8xkM9Xb74xKOVxXmWGopx+rnpRW6XQ8FCxu1Vl7d59fCOAipp6H/3O1tvfJ7aYjhVdO9PS3n1/LqiebTQc3Tfa15Ng7hdNo85N7o5Alaff4trd7h/HL5uHJJZEVYYkXuc8/9xOXQs7xS7zCfcreblRyii4BZvE8+yeZXEZRxItnXzIythbi2ZOsUBv1xvpyyRkmqBFcMjlHnMUoLpWcYKqejXhmkwUim+xjI56XyZh82t2pbb8Zz4tkfQh4eIF3/Dwj74JltFsF6NaMJy6mvNFYk4t9cOOqZ1014MoqfRjYhgLD7eXqyjUoMt7V+8H1yiZnWgyZEFx7YG27MZ0wZHw6Scxx/MCSCVuXQGyZ9l5VKDJty8QcEp3BkImHBOpY7BFk6rGIKwT2bSYXAsjSZ49ML32wxd62txnFHrq83bKZVd6iC/p1Mq+gx3/CrHmbzn19whA+2pZtZnDHix/pR+ZwJfnD/NfbHO70YU66ipjbzOJOVxG0y5dvMpc7Xb4Qr5s+3u40j/u+bqJesP3ZXDc87ufKWrLIVdvwuJJ9iTp6+w9MvbBO+NfGnTHOvcHk7oDyuCjvW2MmMJmb+rQGrB5a4xoGdtYAYjRD4H5nUOf9H3r7RwOjAwO/vdwLWqlLBgds8QVraoZr4wZrXIdr1YcbTgg2jhFuACXcyM2py1zGYcab9gb3Qg2ShRudCzcsGG48MtxAqM8c+WIeEWbLQw39hhtzDjjYHW6UPdzw/uu5gk9KJz4vchTb38L3RQwPfchrmECPcKJwz47GtA7y0GoM8TBPyyafrz2mK058TPehH/J88B8VQvkOBQXNNgAAAABJRU5ErkJggg==",
-      "avatarUrlMediumRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAATlBMVEVMaXEYGBoYGBoYGBsYGBsYGBsYGBsbGx4YGBsYGBsYGBsYGBsWFhkmJikLCw7////29vb6+vojIyZsbG03NzpPT1Hj4+TS0tPJycmDg4UlTCVLAAAAC3RSTlMATm23lBvQ/uQJQhpVdZIAAAAJcEhZcwAACxMAAAsTAQCanBgAAAKRSURBVHjazdlZs6sgDABgqyBoIghql///R+9g7XKUJSqdubycOQ/9hjRhS4siPnhbsqqWUggp64qVLS+Oj+bCatiMml2aQ1zLBASGYJfdkyslRIcsm5zcTvJC4GaSFjivgDwqnm96S3pSk2wY7Bws+k3yGnaPmuf1YiKXcGhIntcLicfiDUfdnPAA6m2uGZwabFPPcHKsKpzbs+AqMRWcHlXWgFdBN4kKRAAhhPsTDfqT6TLhCVBKKRAJsSROEIVS4zBMqAQiaYplyhvvRmt9n1Qi7NcUZcKbem36vtd6SIhyOS/TXt8b0/cmKbbJRffytDGaIM4LsLEE7zqNN4IomnhRf7xRqc6J+oHPuowUNyN5QjhRP7Bz1YixmGuSh+jEB3ZdVKyLgtM89z9a23UJkQeLZu05A6FLiW1omWy9p5iaYxnIic9biRjISkX3KGLlTbLbD3weQawDO4O6e70v0YJXlH5QjcZ4vS/Rv93KwnczF2rQvekn5fsQAoowKGLgGALncrQBUHrByX2FN3skZH9ScE7K3YaT0oWSEiibye36W5FQNqHCHmZxFfXfxecv7MB26BUJi5kFNgd8i19R0zaHwPblESketMENFtdRkzzg4SPAI6a9OnZIraKmePMhFT5G/4hA8eZjNHLQf4kdUjzbJK4iH/HaEbzlLRC7LL1E04827S2Xpeh17ilqc3VgypOUC6cTp5s2o0167wtn/ErsRDE8uvnWRbsSp+7EKFApxJT3ubQTnhVCAOx4ViQfPpjmVq+93E+zE6/5d8D8t8/b/A/wky2CqsnbdPC3bnK3WfI3gvK3qo6JVbzRmbndl78h+YOWaf6m7g/azvkb40vrPmha1v4PPy4sOd/788c/SPnhLt36H0oAAAAASUVORK5CYII=",
-      "avatarUrlLowRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAUVBMVEVMaXEYGBoYGBoYGBoYGBsYGBsYGBoYGBsXFxsXFxsYGBsXFxoYGBsWFhkaGh0mJin///8ODhE9PUDr6+vR0dHExMUxMTTd3d4hISSKioympqfl3r1WAAAADHRSTlMApV8wle7ZHLwJfFeTu3sAAAAACXBIWXMAAAsTAAALEwEAmpwYAAABhUlEQVR42q3W227DIAwAUJISoKltILem+/8Pndp0GdSmzdD8ECkPR4ANBqVY2FY70xF1xunWqo9hewNZmP69OjUELMidyiM0UIimMNKlg2J0FwGcNbwNfWbCwYdw57+KV3NEvBgNh0InuYKDsefN8uzi/slz/VOfRhCESIJpnrtEEBgRIgrmJA+ChHSbp9saCcVhLDERaQ4hhMlzQ/fV9LIYx7vhc+uVUkYWw3AN4SuyvBmlbEHEuIzXYQU2jlVtQRDFYSDPTZvvlUQgUkTvvX81Wrm8HrvYFiEYl64+F9s/N0al+4viLRG7WbOJdSotJOKcit1kE6OcwBTGJSfACZvYdUknBsLE8uWvU2Kegi3f5WXxv0YW4FgpMyOXkm2Y3cgCWmFbPg3IAqy0+TeDsjDyEduMKB5HTDrIfgrjsEricZCldhHXr3khElpMU2pKhHG9p6zUlEqtT2qX+n2DRSg32Io2XnNZ1FxJFRdfzfVac4nXPBUeA1FBNPb/nj1Vj6tDT7hvjtJiO7yqLgwAAAAASUVORK5CYII="
-    },
-    "isOneTime": false,
-    "monthlyDollars": 10,
-    "privacyLevel": "PUBLIC",
-    "tierName": "$10 a month",
-    "createdAt": "2023-06-11T07:18:40Z",
-    "provider": "github"
-  },
-  {
-    "sponsor": {
       "login": "odysa",
       "name": "Chengxu Bian",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22908409?u=0c5ccfb334478364c9f40d53ab333a79d7a51a98&v=4",
