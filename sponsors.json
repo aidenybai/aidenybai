@@ -3,7 +3,7 @@
     "sponsor": {
       "login": "cerebruminc",
       "name": "Cerebrum",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65550834?v=4",
+      "avatarUrl": "https://private-avatars.githubusercontent.com/u/65550834?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NjgxNDAsIm5iZiI6MTczNDU2Njk0MCwicGF0aCI6Ii91LzY1NTUwODM0In0.heaQhu5LIgqD262KYDThM6QjJyb36w6KC3WfR7CvDWs&v=4",
       "websiteUrl": "https://cerebrum.com",
       "linkUrl": "https://github.com/cerebruminc",
       "type": "Organization",
@@ -22,7 +22,7 @@
     "sponsor": {
       "login": "ktakkun",
       "name": "tatsuya",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9464677?u=117fa39321578213f3ff11693d1dfe1490428144&v=4",
+      "avatarUrl": "https://private-avatars.githubusercontent.com/u/9464677?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NjgwODAsIm5iZiI6MTczNDU2Njg4MCwicGF0aCI6Ii91Lzk0NjQ2NzcifQ.x77tXtENcXNnOs4OZ7UCF8voyUxPE7P8bm2suBzNUf4&u=117fa39321578213f3ff11693d1dfe1490428144&v=4",
       "websiteUrl": "https://tatsuy.one",
       "linkUrl": "https://github.com/ktakkun",
       "type": "User",
@@ -41,7 +41,7 @@
     "sponsor": {
       "login": "zwergdev",
       "name": "zwerg",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/132711041?u=737b97846e0887f5a045e0ac60ef80677dcc3cee&v=4",
+      "avatarUrl": "https://private-avatars.githubusercontent.com/u/132711041?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1Njg1MDAsIm5iZiI6MTczNDU2NzMwMCwicGF0aCI6Ii91LzEzMjcxMTA0MSJ9.2SJA5P8JcBBJbcJ2SEhC9NLcbDV7tVzSRsBOqRwsppk&u=737b97846e0887f5a045e0ac60ef80677dcc3cee&v=4",
       "websiteUrl": "zwerg.xyz",
       "linkUrl": "https://github.com/zwergdev",
       "type": "User",
@@ -60,7 +60,7 @@
     "sponsor": {
       "login": "odysa",
       "name": "Chengxu Bian",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22908409?u=0c5ccfb334478364c9f40d53ab333a79d7a51a98&v=4",
+      "avatarUrl": "https://private-avatars.githubusercontent.com/u/22908409?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1Njg0NDAsIm5iZiI6MTczNDU2NzI0MCwicGF0aCI6Ii91LzIyOTA4NDA5In0.7CEyLWBHXUhkspnM-WTjaz_PTeuZXdmRsC7QjJBvcpc&u=0c5ccfb334478364c9f40d53ab333a79d7a51a98&v=4",
       "websiteUrl": null,
       "linkUrl": "https://github.com/odysa",
       "type": "User",
@@ -79,7 +79,7 @@
     "sponsor": {
       "login": "hyoban",
       "name": "Stephen Zhou",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38493346?u=53d02595456f00ebe799225058a04ac57bdf3483&v=4",
+      "avatarUrl": "https://private-avatars.githubusercontent.com/u/38493346?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NjgzMjAsIm5iZiI6MTczNDU2NzEyMCwicGF0aCI6Ii91LzM4NDkzMzQ2In0.zX88E-P4qttPp-_98lwCJZsDDQvvrK6Squ2j8NPXWL4&u=53d02595456f00ebe799225058a04ac57bdf3483&v=4",
       "websiteUrl": "hyoban.cc",
       "linkUrl": "https://github.com/hyoban",
       "type": "User",
@@ -98,7 +98,7 @@
     "sponsor": {
       "login": "matthewesp",
       "name": "Matthew Esparza",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39199348?v=4",
+      "avatarUrl": "https://private-avatars.githubusercontent.com/u/39199348?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NjgxNDAsIm5iZiI6MTczNDU2Njk0MCwicGF0aCI6Ii91LzM5MTk5MzQ4In0.p-HltOt_2-vfCuogIivJoqbUsU4hK8NFWO_9fEs74R8&v=4",
       "websiteUrl": null,
       "linkUrl": "https://github.com/matthewesp",
       "type": "User",
@@ -117,7 +117,7 @@
     "sponsor": {
       "login": "malted",
       "name": "Ben",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/59726149?u=e029bb858ecf57b71cf96afcd603ed28f7d20045&v=4",
+      "avatarUrl": "https://private-avatars.githubusercontent.com/u/59726149?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NjgyMDAsIm5iZiI6MTczNDU2NzAwMCwicGF0aCI6Ii91LzU5NzI2MTQ5In0.HLtYLw3NE8noGh3hVlStkRCHDXDdIXpxvToDV1QRxrM&u=e029bb858ecf57b71cf96afcd603ed28f7d20045&v=4",
       "websiteUrl": "https://malted.dev",
       "linkUrl": "https://github.com/malted",
       "type": "User",
@@ -136,7 +136,7 @@
     "sponsor": {
       "login": "taylorgoolsby",
       "name": "Taylor Goolsby",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14286600?v=4",
+      "avatarUrl": "https://private-avatars.githubusercontent.com/u/14286600?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1Njc2NjAsIm5iZiI6MTczNDU2NjQ2MCwicGF0aCI6Ii91LzE0Mjg2NjAwIn0.qSU1pH9gzel1cZlPgZCwSEKzbsDAaVFcJ3ZogpTVBzQ&v=4",
       "websiteUrl": null,
       "linkUrl": "https://github.com/taylorgoolsby",
       "type": "User",
@@ -155,7 +155,7 @@
     "sponsor": {
       "login": "chasedavis",
       "name": "Chase Davis",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10068755?u=9659c7187add6b09413059b15e2f19deab6ec8e6&v=4",
+      "avatarUrl": "https://private-avatars.githubusercontent.com/u/10068755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NjgzODAsIm5iZiI6MTczNDU2NzE4MCwicGF0aCI6Ii91LzEwMDY4NzU1In0.Bi6jQiZGe2Bdc3wWpd6iuS6J1Zx5pIZ1n_LhPjyF2e4&u=9659c7187add6b09413059b15e2f19deab6ec8e6&v=4",
       "websiteUrl": "thewolfe.io",
       "linkUrl": "https://github.com/chasedavis",
       "type": "User",
@@ -174,7 +174,7 @@
     "sponsor": {
       "login": "ralfisalhon",
       "name": "Ralfi Salhon",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16303372?u=032328d10f43d48385f053052853346433280161&v=4",
+      "avatarUrl": "https://private-avatars.githubusercontent.com/u/16303372?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1Njc3MjAsIm5iZiI6MTczNDU2NjUyMCwicGF0aCI6Ii91LzE2MzAzMzcyIn0.Ebl0CXAC4JdaRXojBn9Cn5U6gXV9KUhhsE9f6NGEszs&u=032328d10f43d48385f053052853346433280161&v=4",
       "websiteUrl": "https://ralfi.dev",
       "linkUrl": "https://github.com/ralfisalhon",
       "type": "User",
@@ -193,7 +193,7 @@
     "sponsor": {
       "login": "KevinVandy",
       "name": "Kevin Van Cott",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28243511?u=c422106065277bddf5f85bc37f724568733db225&v=4",
+      "avatarUrl": "https://private-avatars.githubusercontent.com/u/28243511?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NjgyNjAsIm5iZiI6MTczNDU2NzA2MCwicGF0aCI6Ii91LzI4MjQzNTExIn0.huhm0HEWlgaN6QbFQv4tn8r35DyutOx31NCjfz3O2fw&u=c422106065277bddf5f85bc37f724568733db225&v=4",
       "websiteUrl": "kevinvancott.dev",
       "linkUrl": "https://github.com/KevinVandy",
       "type": "User",
@@ -212,7 +212,7 @@
     "sponsor": {
       "login": "mbreksopuro",
       "name": "mbreksopuro",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24532155?u=35b8c29b6c9aadb2b13d8664575e6931e52e5d8b&v=4",
+      "avatarUrl": "https://private-avatars.githubusercontent.com/u/24532155?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1Njc5MDAsIm5iZiI6MTczNDU2NjcwMCwicGF0aCI6Ii91LzI0NTMyMTU1In0.WLguAdSbIhDWC8mmkEX-_iuuFPKczw9Y9undA-5Plwg&u=35b8c29b6c9aadb2b13d8664575e6931e52e5d8b&v=4",
       "websiteUrl": "https://twitter.com/mbreksopuro",
       "linkUrl": "https://github.com/mbreksopuro",
       "type": "User",
@@ -231,7 +231,7 @@
     "sponsor": {
       "login": "0hq",
       "name": "Will DePue",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30643741?u=faee0ca26282cee3e829c36827f3daac47cb2e4a&v=4",
+      "avatarUrl": "https://private-avatars.githubusercontent.com/u/30643741?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NjgxNDAsIm5iZiI6MTczNDU2Njk0MCwicGF0aCI6Ii91LzMwNjQzNzQxIn0.-SMAiKhsdO3mFOP9D-VLH_Pxr3JU_MWaXk97Q6fX8w0&u=faee0ca26282cee3e829c36827f3daac47cb2e4a&v=4",
       "websiteUrl": "depue.design",
       "linkUrl": "https://github.com/0hq",
       "type": "User",
@@ -250,7 +250,7 @@
     "sponsor": {
       "login": "jackyzha0",
       "name": "Jacky Zhao",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23178940?u=1092d0a1bca8868a97d52b9020c2f87707e57219&v=4",
+      "avatarUrl": "https://private-avatars.githubusercontent.com/u/23178940?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1Njc3MjAsIm5iZiI6MTczNDU2NjUyMCwicGF0aCI6Ii91LzIzMTc4OTQwIn0.Oq_RwwafroO-O-ZpvG7ei9rMwwYIrYeeF1xqDvM2uls&u=1092d0a1bca8868a97d52b9020c2f87707e57219&v=4",
       "websiteUrl": "jzhao.xyz",
       "linkUrl": "https://github.com/jackyzha0",
       "type": "User",
@@ -269,7 +269,7 @@
     "sponsor": {
       "login": "isabellereks",
       "name": "isabelle",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70666948?u=c3d8a29ca4554d0b48cf17e3742ce53b7e86dfcf&v=4",
+      "avatarUrl": "https://private-avatars.githubusercontent.com/u/70666948?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1Njc3MjAsIm5iZiI6MTczNDU2NjUyMCwicGF0aCI6Ii91LzcwNjY2OTQ4In0.Tb2UzfmRy-SgYsUenBggTzqkJcnhv1BnrOplc0w6Hg0&u=c3d8a29ca4554d0b48cf17e3742ce53b7e86dfcf&v=4",
       "websiteUrl": null,
       "linkUrl": "https://github.com/isabellereks",
       "type": "User",
