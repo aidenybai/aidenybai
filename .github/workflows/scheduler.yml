@@ -14,10 +14,10 @@ jobs:
   update-sponsors:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+      - uses: actions/checkout@v4
 
       - name: Set node
-        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        uses: actions/setup-node@v4
         with:
           node-version: lts/*
 
@@ -30,7 +30,7 @@ jobs:
           SPONSORKIT_GITHUB_LOGIN: aidenybai
 
       - name: Commit
-        uses: EndBug/add-and-commit@a988073222b8bd50f3ecfca9c0ab7dfbf0d08ceb # v4
+        uses: EndBug/add-and-commit@v4
         with:
           message: 'chore: update sponsors.svg'
           add: 'sponsors.*'
